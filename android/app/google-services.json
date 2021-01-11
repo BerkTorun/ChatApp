@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078862299020",
+    "project_id": "rnanonchatapp-8940f",
+    "storage_bucket": "rnanonchatapp-8940f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078862299020:android:68e888ee5e7a9521ea60a9",
+        "android_client_info": {
+          "package_name": "com.rnanonchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078862299020-h6judnb7tukelcv3qedgvt3n107dtlth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7nP6EjnfdQ-FQZUBbKh1aDUyDqCk0DJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078862299020-h6judnb7tukelcv3qedgvt3n107dtlth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
